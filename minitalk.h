@@ -6,7 +6,7 @@
 /*   By: hnayel <hnayel@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/02/14 18:56:18 by hnayel            #+#    #+#             */
-/*   Updated: 2026/02/14 19:02:48 by hnayel           ###   ########.fr       */
+/*   Updated: 2026/02/14 20:13:47 by hnayel           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,5 +21,6 @@
 void	ft_putchar(char c);
 void	ft_putstr(char *str);
 void	ft_putnbr(int nb);
+int		ft_atoi(char *s);
 
 #endif
